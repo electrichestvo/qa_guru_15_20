@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5f7c4450-9540-47c7-8766-60e45e7ea6de" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/helpers/CustomApiListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/helpers/CustomApiListener.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/models/lombock/BodyLombockModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/models/lombock/BodyLombockModel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/models/lombock/BodyResponseLombokModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/models/lombock/BodyResponseLombokModel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/models/pojo/BodyPojoModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/models/pojo/BodyPojoModel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/models/pojo/BodyResponsePojoModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/models/pojo/BodyResponsePojoModel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/specs/Spec.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/specs/Spec.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/UserTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/UserTests.java" afterDir="false" />
-    </list>
+    <list default="true" id="5f7c4450-9540-47c7-8766-60e45e7ea6de" name="Changes" comment="Configuration edited" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -148,6 +138,14 @@
       <option name="presentableId" value="Default" />
       <updated>1669988722191</updated>
     </task>
+    <task id="LOCAL-00001" summary="Configuration edited">
+      <created>1669992254916</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1669992254916</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -160,5 +158,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Configuration edited" />
+    <option name="LAST_COMMIT_MESSAGE" value="Configuration edited" />
   </component>
 </project>
