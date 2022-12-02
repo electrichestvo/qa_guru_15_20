@@ -1,4 +1,4 @@
-package in.reqres;
+package tests;
 
 import models.lombock.BodyLombockModel;
 import models.lombock.BodyResponseLombokModel;

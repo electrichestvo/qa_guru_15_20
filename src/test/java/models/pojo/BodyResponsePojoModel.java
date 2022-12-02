@@ -1,4 +1,4 @@
-package pojo;
+package models.pojo;
 
 public class BodyResponsePojoModel {
     String name,
